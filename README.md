@@ -3,7 +3,7 @@
 
 
 - 🔭 Procurando minha primeira oportunidade no mercado para atuar como front-end
-- 🌱 Estudando Typescript e Node js
+- 🌱 Estudando Typescript
 
 ##
 <div align="center">
