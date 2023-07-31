@@ -3,7 +3,7 @@
 
 
 - 🔭 Procurando minha primeira oportunidade no mercado para atuar como front-end
-- 🌱 Estudando PHP
+- 🌱 Estudando PYTHON
 
 ##
 <div align="center">
